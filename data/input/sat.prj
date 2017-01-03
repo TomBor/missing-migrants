@@ -1,0 +1,4 @@
+PROJCS["satellite",
+    GEOGCS["satellite"],
+    PROJECTION["satellite"],
+    EXTENSION["PROJ4","+proj=tpers +azi=-35 +tilt=20 +lon_0=34 +lat_0=23 +h=3826860 + ellps=WGS84 +datum=WGS84 +units=m"]]
