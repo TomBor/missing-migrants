@@ -1,6 +1,6 @@
 # Migrants morts et disparus en Méditerranée (2014-2016)
 
-<a href="http://"><img src="http://" align="left" width="150"></a>
+<a href="http://cartotheque.sciences-po.fr/media/Migrants_morts_et_disparus_en_Mediterranee_2014-2016/2268"><img src="https://raw.githubusercontent.com/TomBor/missing-migrants/master/01-missing-migrants-Med-2014-2016.jpg" align="left"></a>
 
 ## Étapes de création de la carte
 Outils nécessaire :
